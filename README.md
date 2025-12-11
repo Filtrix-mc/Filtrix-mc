@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filtrix-mc" alt="filtrix-mc" /></a> </p>
 
+- 🔭 I’m currently working on [Minecraft](filtrix.blogspot.com)
+
 - 🌱 I’m currently learning **University**
+
+- 👯 I’m looking to collaborate on [Pojavlauncher](filtrix.blogspot.com)
+
+- 🤝 I’m looking for help with [My friend](filtrix.blogspot.com)
+
+- 👨‍💻 All of my projects are available at [filtrix.blogspot.com](filtrix.blogspot.com)
 
 - 📝 I regularly write articles on [Filtrix.blogspot.com](Filtrix.blogspot.com)
 
@@ -13,7 +21,9 @@
 
 - 📫 How to reach me **filtrixmc@gmail.com**
 
-- ⚡ Fun fact **games are super but,MIMECRAFT is very super**
+- 📄 Know about my experiences [filtrix.blogspot.com](filtrix.blogspot.com)
+
+- ⚡ Fun fact **games are super but,MINECRAFT is very super**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
