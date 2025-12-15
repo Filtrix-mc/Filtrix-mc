@@ -1,33 +1,56 @@
-<!-- Animated Background Banner -->
+<!-- ========================================================= -->
+<!--                    FILTRIX MC README                     -->
+<!-- ========================================================= -->
+
+<!-- ===== PREMIUM MINECRAFT BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=250&section=header&text=Filtrix%20MC&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=FILTRIX%20MC&fontSize=70&fontColor=ffffff&color=0:3cb043,50:27ae60,100:145a32&animation=fadeIn&desc=Minecraft%20Creator%20%7C%20HTML%20Developer%20%7C%20University%20Professional&descSize=18" />
 </p>
 
-<!-- Animated Logo -->
+<!-- ===== MINECRAFT PIXEL LOGO (SVG) ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" alt="Animated Logo"/>
+<svg width="140" height="140" viewBox="0 0 16 16"
+     xmlns="http://www.w3.org/2000/svg"
+     shape-rendering="crispEdges">
+  <rect x="0" y="0" width="16" height="5" fill="#3cb043"/>
+  <rect x="0" y="5" width="16" height="11" fill="#8b5a2b"/>
+  <rect x="2" y="7" width="2" height="2" fill="#6f4518"/>
+  <rect x="6" y="9" width="2" height="2" fill="#6f4518"/>
+  <rect x="11" y="8" width="2" height="2" fill="#6f4518"/>
+</svg>
 </p>
 
-<!-- Profile Views -->
+<!-- ===== PROFILE VIEW COUNTER ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Filtrix-mc&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Filtrix-mc&label=PROFILE%20VIEWS&style=flat-square&color=3cb043" />
 </p>
 
-<!-- Animated Border Line -->
+<!-- ===== NEON PROFESSIONAL TAGLINE ===== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658127-3b35c2b5-5f64-4f1b-b5f4-90a7a5a7e7b7.gif" width="100%" />
+  <span style="
+    font-size:26px;
+    font-weight:600;
+    color:#00ffd5;
+    text-shadow:0 0 12px #00ffd5;
+  ">
+    HTML Developer • Minecraft Creator • University Professional
+  </span>
 </p>
-
-## 👋 Hello, I'm **Filtrix MC**
-
-🎓 I work in a **University**  
-💻 I can work with **any programming language**  
-❤️ My favourite programming language is **HTML**  
-🎮 My favourite game is **Minecraft**  
 
 ---
 
-## 🚀 Skills & Technologies
+## 👋 About Me
+
+- 🎓 Working in a **University**
+- 💻 Can work with **any programming language**
+- ❤️ Favourite language: **HTML**
+- 🎮 Favourite game: **Minecraft**
+- 🌍 Website: **www.blogspot.com**
+- 📺 YouTube: **FILTRIX MC**
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,php&theme=dark" />
@@ -35,10 +58,62 @@
 
 ---
 
-## ⛏️ Minecraft Lover
+## 🧱 Minecraft Branding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="Minecraft Animated Logo"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220" />
+</p>
+
+🟩 Minecraft-inspired UI  
+🟩 Pixel & block design  
+🟩 Game-themed web projects  
+
+---
+
+## 📦 Featured Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Minecraft%20Portfolio-3cb043?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Interactive%20UI-27ae60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-University%20Automation-145a32?style=for-the-badge"/>
+</p>
+
+- 🔹 Minecraft-themed websites  
+- 🔹 University systems & tools  
+- 🔹 Open-source projects  
+
+---
+
+## 📢 Advertisement & Promotion
+
+<p align="center">
+  <a href="https://www.youtube.com/@FILTRIXMC">
+    <img src="https://img.shields.io/badge/Subscribe-FILTRIX%20MC-red?style=for-the-badge&logo=youtube"/>
+  </a>
+  <a href="https://www.blogspot.com">
+    <img src="https://img.shields.io/badge/Visit%20Website-Blogspot-orange?style=for-the-badge&logo=google-chrome"/>
+  </a>
+</p>
+
+💰 Promotion available for:
+- Minecraft servers
+- GitHub projects
+- Websites & tools
+
+---
+
+## 📊 GitHub Stats (Trending-Optimized)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Filtrix-mc&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Filtrix-mc&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Filtrix-mc&theme=tokyo-night"/>
 </p>
 
 ---
@@ -46,96 +121,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Blogspot-orange?style=for-the-badge&logo=google-chrome" />
+  <a href="https://github.com/Filtrix-mc">
+    <img src="https://img.shields.io/badge/GitHub-Filtrix--mc-black?style=flat-square&logo=github"/>
   </a>
-  <a href="https://www.youtube.com/@FILTRIXMC" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FILTRIX%20MC-red?style=for-the-badge&logo=youtube" />
+  <a href="https://www.youtube.com/@FILTRIXMC">
+    <img src="https://img.shields.io/badge/YouTube-FILTRIX%20MC-red?style=flat-square&logo=youtube"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filtrix-mc&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Filtrix-mc&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ffcc&height=120&section=footer"/>
-</p>
-<!-- Animated Advertisement Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=🔥%20ADVERTISEMENT%20ZONE%20🔥&fontSize=40&fontColor=ffffff&animation=blinking" />
-</p>
-
-<!-- Animated Border -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658127-3b35c2b5-5f64-4f1b-b5f4-90a7a5a7e7b7.gif" width="100%" />
-</p>
-
-## 🚀 Promote With FILTRIX MC
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="250"/>
-</p>
-
-🎯 **Want your project, server, or brand promoted?**  
-💡 Get featured on my **GitHub**, **YouTube**, and **Website**
-
----
-
-### 📺 YouTube Channel Advertisement
-<p align="center">
-  <a href="https://www.youtube.com/@FILTRIXMC" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-FILTRIX%20MC-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.blogspot.com">
+    <img src="https://img.shields.io/badge/Website-Blogspot-orange?style=flat-square"/>
   </a>
 </p>
 
+<!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:145a32,100:3cb043&section=footer"/>
 </p>
 
----
-
-### 🌐 Website Advertisement
-<p align="center">
-  <a href="https://www.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-Blogspot-orange?style=for-the-badge&logo=google-chrome"/>
-  </a>
-</p>
-
----
-
-### ⛏️ Minecraft Server / Game Promotion
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="200"/>
-</p>
-
-🟩 **Minecraft Content | Mods | Servers | Builds**  
-📢 Promotion available on request
-
----
-
-### 💼 Sponsored Content
-✔ Project promotion  
-✔ GitHub repository ads  
-✔ Minecraft server ads  
-✔ YouTube shoutouts  
-
-📩 **Contact via YouTube or GitHub**
-
----
-
-<!-- Animated Footer Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658127-3b35c2b5-5f64-4f1b-b5f4-90a7a5a7e7b7.gif" width="100%" />
-</p>
